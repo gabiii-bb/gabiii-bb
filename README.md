@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabiii-bb
 - 👀 I’m interested in gaming and programing.
-- 🌱 I’m currently learning OOP in Java language.
+- 🌱 I’m currently studying BS Computer Science.
 - 😄 Pronouns: She/They/Any Pronouns.
 
 <!---
